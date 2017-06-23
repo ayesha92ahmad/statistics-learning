@@ -5,6 +5,12 @@ Python? R? D3Js? SAS?
 
 Step 1:
 
+https://www.khanacademy.org/math/statistics-probability
+
+
+
+Step 2:
+
 Learn Python for data science:<br>
 https://elitedatascience.com/learn-python-for-data-science
 
