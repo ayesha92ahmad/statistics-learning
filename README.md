@@ -7,6 +7,9 @@ Step 1:
 
 https://www.khanacademy.org/math/statistics-probability
 
+Udacity learning:
+https://classroom.udacity.com/courses/ud827
+Notes in the file : Descriptive Statistics.
 
 
 Step 2:
