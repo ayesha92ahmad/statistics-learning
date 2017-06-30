@@ -55,16 +55,21 @@ Forulae:
 ---
 Central Tendency:
 
-Mode - Value where frequency is highest
+Mode : Value where frequency is highest
 
-Median - Value where frequency is in the middle
+Median : Value where frequency is in the middle
 
-Mean - Average value
+Mean : Average value
+
 ---
-Mode
+
+<h4>Mode</h4>
 Mode of distribution - Range that occured with highest frequency
+
 Mode of negatively skewed distribution - ""
+
 Mode of Uniform distribution - No mode
+
 Multimodal - More than one mode
 
 - The mode occurs on the X-axis, so you are looking for whatever value has the highest frequency
