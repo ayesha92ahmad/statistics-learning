@@ -53,6 +53,7 @@ Forulae:
 - Standard deviation(sigma): square root of variance
 
 --
+
 Central Tendency:
 
 Mode - Value where frequency is highest
