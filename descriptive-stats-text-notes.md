@@ -46,18 +46,19 @@ double blind- researcher and participants are unaware
 Google spreadsheet tutorial:
 
 Forulae:
-- SUM(a2:a8)
-- Average(a2:a8)
-- Deviation: distance from the mean: a2-$E$1 (so that it remains constant if we copy paste)
-- Variance: sum of squared deviation divided by number of entries
-- Standard deviation(sigma): square root of variance
+  - SUM(a2:a8)
+  - Average(a2:a8)
+  - Deviation: distance from the mean: a2-$E$1 (so that it remains constant if we copy paste)
+  - Variance: sum of squared deviation divided by number of entries
+  - Standard deviation(sigma): square root of variance
 
---
 
 Central Tendency:
 
 Mode - Value where frequency is highest
+
 Median - Value where frequency is in the middle
+
 Mean - Average value
 --
 Mode
