@@ -79,3 +79,5 @@ Multimodal - More than one mode
 - If we take different samples of the same dataset we will get different modes
 - If we take different bin size mode changes
 
+<h4>Mean</h4>
+mean = sum/frequency
