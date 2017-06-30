@@ -52,7 +52,7 @@ Forulae:
   - Variance: sum of squared deviation divided by number of entries
   - Standard deviation(sigma): square root of variance
 
-
+---
 Central Tendency:
 
 Mode - Value where frequency is highest
@@ -60,7 +60,7 @@ Mode - Value where frequency is highest
 Median - Value where frequency is in the middle
 
 Mean - Average value
---
+---
 Mode
 Mode of distribution - Range that occured with highest frequency
 Mode of negatively skewed distribution - ""
