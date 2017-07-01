@@ -1,10 +1,10 @@
 <H3>Table of content</h3>
-1. <a href="#Introduction">Introduction</a>
+1. <a href="Introduction">Introduction</a>
 2. <a href="#Vis">Visualization Techniques</a>
 
 <h1>Descriptive Stats</h1>
 
-<h3>#Introduction</h3>
+<h3 id="Introduction">Introduction</h3>
 Constructs- something for which a way to measure has not been found. Eg. happiness, hunger, etc
 
 Operational definition:
