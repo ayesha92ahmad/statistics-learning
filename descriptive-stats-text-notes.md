@@ -1,19 +1,17 @@
 <H3>Table of content</h3>
 ### Table of Contents
-**[Introduction](#Introduction)**<br>
-**[Surveys](#Surveys)**<br>
-**[Visualization Techniques](#Visualization-Techniques)**<br>
-**[Central Tendency](#Central-Tendency)**<br>
-**[Mode](#Mode)**<br>
-**[Mean](#Mean)**<br>
-**[Median](#Median)**<br>
+**[Introduction](#introduction)**<br>
+**[Surveys](#surveys)**<br>
+**[Visualization Techniques](#visualization-techniques)**<br>
+**[Central Tendency](#central-tendency)**<br>
+**[Mode](#mode)**<br>
+**[Mean](#mean)**<br>
+**[Median](#median)**<br>
 
-1. <a href="Introduction">Introduction</a>
-2. <a href="#Vis">Visualization Techniques</a>
 
 <h1>Descriptive Stats</h1>
 
-## <h3>Introduction</h3>
+## Introduction
 Constructs- something for which a way to measure has not been found. Eg. happiness, hunger, etc
 
 Operational definition:
@@ -54,7 +52,7 @@ placebo- fake treatment
 single blind- participatants
 double blind- researcher and participants are unaware
 
-## <h3>Visualization Techniques</h3>
+## Visualization Techniques
 
 Google spreadsheet tutorial:
 
@@ -76,7 +74,7 @@ Mean : Average value
 
 ---
 
-## <h4>Mode</h4>
+## Mode
 Mode of distribution - Range that occured with highest frequency
 
 Mode of negatively skewed distribution - ""
@@ -92,7 +90,7 @@ Multimodal - More than one mode
 - If we take different samples of the same dataset we will get different modes
 - If we take different bin size mode changes
 
-## <h4>Mean</h4>
+## Mean
 mean = sum/frequency
 
 Properties:
@@ -101,7 +99,7 @@ Properties:
 - Extreme values will change the mean
 - Mean with Outliers are misleading
 
-## <h4>Median</h4>
+## Median
 
 Middle of the data
 Useful info from data is arrange in order.
