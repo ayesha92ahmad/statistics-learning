@@ -1,6 +1,10 @@
+<H3>Table of content</h3>
+1. <a href="#Introduction">Introduction</a>
+2. <a href="#Vis">Visualization Techniques</a>
+
 <h1>Descriptive Stats</h1>
 
-<h3>Introduction</h3>
+<h3>#Introduction</h3>
 Constructs- something for which a way to measure has not been found. Eg. happiness, hunger, etc
 
 Operational definition:
@@ -41,7 +45,7 @@ placebo- fake treatment
 single blind- participatants
 double blind- researcher and participants are unaware
 
-<h3>Visualization Techniques</h3>
+[#Vis]<h3>Visualization Techniques</h3>
 
 Google spreadsheet tutorial:
 
@@ -81,3 +85,14 @@ Multimodal - More than one mode
 
 <h4>Mean</h4>
 mean = sum/frequency
+
+Properties:
+- All scores in the distribution affect the mean
+- Mean from different samples in the population may have similarmeans
+- Extreme values will change the mean
+- Mean with Outliers are misleading
+
+<h4>Median</h4>
+
+Middle of the data
+Useful info from data is arrange in order.
