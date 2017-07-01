@@ -1,12 +1,13 @@
-<H3>Table of content</h3>
+
 ### Table of Contents
-**[Introduction](#introduction)**<br>
-**[Surveys](#surveys)**<br>
-**[Visualization Techniques](#visualization-techniques)**<br>
-**[Central Tendency](#central-tendency)**<br>
-**[Mode](#mode)**<br>
-**[Mean](#mean)**<br>
-**[Median](#median)**<br>
+
+**[1. Introduction](#introduction)**<br>
+**[2. Surveys](#surveys)**<br>
+**[3. Visualization Techniques](#visualization-techniques)**<br>
+**[4. Central Tendency](#central-tendency)**<br>
+**[5. Mode](#mode)**<br>
+**[6. Mean](#mean)**<br>
+**[7. Median](#median)**<br>
 
 
 <h1>Descriptive Stats</h1>
