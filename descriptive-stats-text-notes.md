@@ -1,4 +1,6 @@
 
+<h1>Descriptive Stats</h1>
+
 ### Table of Contents
 
 **[1. Introduction](#introduction)**<br>
@@ -9,8 +11,6 @@
 **[6. Mean](#mean)**<br>
 **[7. Median](#median)**<br>
 
-
-<h1>Descriptive Stats</h1>
 
 ## Introduction
 Constructs- something for which a way to measure has not been found. Eg. happiness, hunger, etc
@@ -32,22 +32,22 @@ Experiments
 
 ## Surveys
 why surveys?
-Easy
-inexpensive
-conducted remotely
-anyone can access and analyze survey results
-timeless
+- Easy
+- inexpensive
+- Can be conducted remotely
+- anyone can access and analyze survey results
+- timeless
 
-downfalls:
-untruthful responses
-biased responses
-respondents not understanding the question
-respondents refusing to answer the question
+Downfalls:
+- Susceptible to untruthful responses
+- Biased responses
+- Respondents not understanding the question
+- Respondents refusing to answer the question
 
 Experiments:
-random sample
+Random sample
 
-blinding- 
+Blinding- 
 placebo- fake treatment
 
 single blind- participatants
@@ -90,6 +90,7 @@ Multimodal - More than one mode
 - There is no equation for the mode
 - If we take different samples of the same dataset we will get different modes
 - If we take different bin size mode changes
+- It can be used to describe categorical data such as gender or country of origin but not mean and mode
 
 ## Mean
 mean = sum/frequency
@@ -102,5 +103,11 @@ Properties:
 
 ## Median
 
-Middle of the data
-Useful info from data is arrange in order.
+- Middle of the data
+- Useful info from data is arrange in order.
+- In uniform distribution mode=mean=median
+
+## Variability
+
+Range = maximum - minimum 
+
