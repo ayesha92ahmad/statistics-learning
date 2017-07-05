@@ -191,5 +191,7 @@ Tails never actually touch the x axis
 
 Z table: Areas under the standard normal curve
 
+Sampling distributions
+
 
 [Link to Worksheets](https://docs.google.com/spreadsheets/d/1612-HXV2WVqfWcpHBsPf5uJWuB4CNB1IK-7IBQiBv80/edit?usp=sharing)
