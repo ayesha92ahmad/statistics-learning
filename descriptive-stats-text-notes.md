@@ -10,6 +10,11 @@
 **[5. Mode](#mode)**<br>
 **[6. Mean](#mean)**<br>
 **[7. Median](#median)**<br>
+**[8. Variability](#variability)**<br>
+**[9. Standardizing](#standardizing)**<br>
+**[10. Z score](#z-score)**<br>
+**[11. PDF](#pdf)**<br>
+
 
 
 ## Introduction
@@ -176,7 +181,7 @@ z=(x-mean)/sigma
 
 average of new z indexes if we convert all data points to z index =0
 
-## PDF (Probability Density Function)
+## PDF
 
 In a normal distribution, area under the curve can be used to calculate the probability
 
