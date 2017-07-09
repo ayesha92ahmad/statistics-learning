@@ -190,8 +190,15 @@ Tails never actually touch the x axis
 - infinity to x is x percentile
 
 Z table: Areas under the standard normal curve
+# Central limit theorem
+
+In probability theory, the central limit theorem (CLT) establishes that, for the most commonly studied scenarios, when independent random variables are added, their sum tends toward a normal distribution (commonly known as a bell curve) even if the original variables themselves are not normally distributed. In more precise terms, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined (finite) expected value and finite variance, will be approximately normally distributed, regardless of the underlying distribution.
 
 Sampling distributions
+SE: standard error
+\sigma/SE= \sqrt{2}
 
+THE KLOUT SCORE
+The Klout Score is a number between 1-100 that represents your influence. The more influential you are, the higher your Klout Score.
 
 [Link to Worksheets](https://docs.google.com/spreadsheets/d/1612-HXV2WVqfWcpHBsPf5uJWuB4CNB1IK-7IBQiBv80/edit?usp=sharing)
