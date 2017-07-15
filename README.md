@@ -9,11 +9,13 @@ https://www.khanacademy.org/math/statistics-probability
 
 Udacity learning:
 
-[Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
+[Descriptive Statistics](https://classroom.udacity.com/courses/ud827)<br>
 Notes in the file : [Descriptive Statistics](https://github.com/ayesha92ahmad/statistics-learning/blob/master/descriptive-stats-text-notes.md)
+
 Final project can be found under [Descriptive-final-project](https://github.com/ayesha92ahmad/statistics-learning/tree/master/descriptive-final-project)
 
-[Inferential Statistics=(https://classroom.udacity.com/courses/ud201)
+
+[Inferential Statistics](https://classroom.udacity.com/courses/ud201)<br>
 Notes in the file: [Inferential Statistics](https://github.com/ayesha92ahmad/statistics-learning/blob/master/inferential-stats-notes.md)
 
 
