@@ -8,8 +8,14 @@ Step 1:
 https://www.khanacademy.org/math/statistics-probability
 
 Udacity learning:
-https://classroom.udacity.com/courses/ud827
-Notes in the file : Descriptive Statistics.
+
+[Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
+Notes in the file : [Descriptive Statistics](https://github.com/ayesha92ahmad/statistics-learning/blob/master/descriptive-stats-text-notes.md)
+Final project can be found under [Descriptive-final-project](https://github.com/ayesha92ahmad/statistics-learning/tree/master/descriptive-final-project)
+
+[Inferential Statistics=(https://classroom.udacity.com/courses/ud201)
+Notes in the file: [Inferential Statistics](https://github.com/ayesha92ahmad/statistics-learning/blob/master/inferential-stats-notes.md)
+
 
 
 Step 2:
